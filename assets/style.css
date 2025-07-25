@@ -1,0 +1,28 @@
+body {
+    background-color: #f9f3f0;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.app-container {
+    max-width: 900px;
+    margin: auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #d85c8b;
+    margin-bottom: 40px;
+}
+
+.radio-container {
+    background-color: #fdecef;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+}
